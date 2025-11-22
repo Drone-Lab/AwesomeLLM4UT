@@ -26,7 +26,7 @@
   - [Test Minimization](#-test-minimization)
   - [Test-to-Code Traceability](#-test-to-code-traceability)
 - [🤔 Related Surveys](#-related-surveys)
-- [📈 Star History](#-star-history)
+- [📈 Star History](#star-history)
 
 
 
